@@ -20,6 +20,7 @@
 | Makin' Stuff Look Good           | https://youtube.com/@DanMoranGameDev             | HLSL          | Game                            | Unity              |
 | Freya Holmér                     | https://youtube.com/@acegikmo                    | HLSL          | Game                            | Unity              |
 | Molly Rocket                     | https://youtube.com/@MollyRocket                 | C             | Game / Architecture / Low Level |                    |
+| Low Level Learning               | https://youtube.com/@LowLevelLearning            | Varied        | Low Level                       |                    |
 
 ## Game Engines and Frameworks
 
