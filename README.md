@@ -23,24 +23,75 @@
 
 ## Game Engines and Frameworks
 
-| Name    | Home                                                       | Language   | 3D  | Windows | OSX | Linux | Android | iOS | HTML5 |
-| ------- | ---------------------------------------------------------- | ---------- | --- | ------- | --- | ----- | ------- | --- | ----- |
-| Raylib  | https://www.raylib.com                                     | C          | Yes | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
-| Rayfork | https://github.com/SasLuca/rayfork/tree/rayfork-0.9/source | C          | Yes | Yes     | Yes | Yes   | Yes     | Yes |       |
-| Allegro | https://liballeg.org                                       | C          |     | Yes     | Yes | Yes   | Yes     | Yes |       |
-| OpenFL  | https://www.openfl.org                                     | Haxe       | Yes | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
-| PixiJS  | https://pixijs.com                                         | Javascript |     |         |     |       |         |     | Yes   |
+### List
+
+| Name    | Language   | 3D  | Windows | OSX | Linux | Android | iOS | HTML5 |
+| ------- | ---------- | --- | ------- | --- | ----- | ------- | --- | ----- |
+| Raylib  | C          | Yes | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
+| Rayfork | C          | Yes | Yes     | Yes | Yes   | Yes     | Yes |       |
+| Allegro | C          |     | Yes     | Yes | Yes   | Yes     | Yes |       |
+| OpenFL  | Haxe       | Yes | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
+| PixiJS  | Javascript |     |         |     |       |         |     | Yes   |
+
+### Raylib
+
+- [Home](https://www.raylib.com)
+- [Discord](https://discord.gg/raylib) 
+
+#### Rayfork
+
+- [Github](https://github.com/SasLuca/rayfork/tree/rayfork-0.9)
+
+### Allegro
+
+- [Home](https://liballeg.org)
+- [Discord](https://discord.gg/Eucgp6FH)
+
+### OpenFL
+
+- [Home](https://www.openfl.org)
+
+### PixiJS
+
+- [Home](https://pixijs.com)
 
 ## Languages
 
-| Name | Home                                                         | ... |
-| ---- | ------------------------------------------------------------ | --- |
-| Odin | https://odin-lang.org                                        |     |
-| Zig  | https://ziglang.org                                          |     |
-| Rust | https://www.rust-lang.org                                    |     |
-| Haxe | https://haxe.org                                             |     |
-| Jai  | https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md |     |
+### List
 
+| Name | Object Oriented | Memory            | Traits          |
+| ---- | --------------- | ----------------- | --------------- |
+| Odin |                 | Manual            |                 |
+| Zig  |                 | Manual            |                 |
+| Rust | Yes             | Borrow-checker    | Borrow-checker  |
+| Haxe | Yes             | Garbage Collected | Macros          |
+| Jai  |                 | Manual            | Code Generation |
+
+### Odin
+
+- [Home](https://odin-lang.org)
+
+### Zig
+
+- [Home](https://ziglang.org)
+
+### Rust
+
+- [Home](https://www.rust-lang.org)
+
+### Haxe
+
+- [Home](https://haxe.org)
+
+### Jai
+
+- [Github](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md)
+
+## Game Art Tools
+
+| Name         | Pricing      | Links                                                                              | Description                       |
+| ------------ | ------------ | ---------------------------------------------------------------------------------- | --------------------------------- |
+| Pixel Lab AI | Subscription | [Home](https://www.pixellab.ai) / [Discord](https://discord.com/invite/pBeyTBF8T7) | Pixel art AI based art generation |
 
 ## Uncategorized
 
