@@ -1,4 +1,4 @@
-# resources
+# Programming and Game Development Resources
 
 ## Youtube Channels
 
