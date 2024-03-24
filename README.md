@@ -21,6 +21,7 @@
 | Freya Holmér                     | https://youtube.com/@acegikmo                    | HLSL          | Game                            | Unity              |
 | Molly Rocket                     | https://youtube.com/@MollyRocket                 | C             | Game / Architecture / Low Level |                    |
 | Low Level Learning               | https://youtube.com/@LowLevelLearning            | Varied        | Low Level                       |                    |
+| Developer Voices                 | https://youtube.com/@DeveloperVoices             | Varied        | Languages                       |                    |
 
 ## Game Engines and Frameworks
 
@@ -81,10 +82,15 @@
 ### Odin
 
 - [Home](https://odin-lang.org)
+- [Developer Voices](https://www.youtube.com/watch?v=aKYdj0f1iQI)
+- [Differences Between Odin and Zig](https://www.youtube.com/watch?v=tgxtk2OeLwM)
+- [Differences Between Odin and Jai](https://www.youtube.com/watch?v=M763xHjsPk4)
+- [ThePrimeTime Interview](https://www.youtube.com/watch?v=nVa9mgRcVPs)
 
 ### Zig
 
 - [Home](https://ziglang.org)
+- [Developer Voices](https://www.youtube.com/watch?v=5_oqWE9otaE)
 
 ### Rust
 
