@@ -31,6 +31,8 @@
 | Raylib  | C          | Yes | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
 | Rayfork | C          | Yes | Yes     | Yes | Yes   | Yes     | Yes |       |
 | Allegro | C          |     | Yes     | Yes | Yes   | Yes     | Yes |       |
+| SDL     | C          |     | Yes     | Yes | Yes   | Yes     | Yes |       |
+| SMFL    | C          | Yes | Yes     | Yes | Yes   |         |     |       |
 | OpenFL  | Haxe       | Yes | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
 | PixiJS  | Javascript |     |         |     |       |         |     | Yes   |
 
@@ -47,6 +49,14 @@
 
 - [Home](https://liballeg.org)
 - [Discord](https://discord.gg/Eucgp6FH)
+
+### SDL
+
+- [Home](https://www.libsdl.org)
+
+### SFML
+
+- [Home](https://www.sfml-dev.org)
 
 ### OpenFL
 
