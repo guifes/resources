@@ -27,15 +27,15 @@
 
 ### List
 
-| Name    | Language   | 3D  | Windows | OSX | Linux | Android | iOS | HTML5 |
-| ------- | ---------- | --- | ------- | --- | ----- | ------- | --- | ----- |
-| Raylib  | C          | Yes | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
-| Rayfork | C          | Yes | Yes     | Yes | Yes   | Yes     | Yes |       |
-| Allegro | C          |     | Yes     | Yes | Yes   | Yes     | Yes |       |
-| SDL     | C          |     | Yes     | Yes | Yes   | Yes     | Yes |       |
-| SMFL    | C          | Yes | Yes     | Yes | Yes   |         |     |       |
-| OpenFL  | Haxe       | Yes | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
-| PixiJS  | Javascript |     |         |     |       |         |     | Yes   |
+| Name    | Language   | 3D  | OO  | In Dev | Windows | OSX | Linux | Android | iOS | HTML5 |
+| ------- | ---------- | --- | --- | ------ |-------- | --- | ----- | ------- | --- | ----- |
+| Raylib  | C          | Yes |     |        | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
+| Rayfork | C          | Yes |     | Yes    | Yes     | Yes | Yes   | Yes     | Yes |       |
+| Allegro | C          |     |     |        | Yes     | Yes | Yes   | Yes     | Yes |       |
+| SDL     | C          |     |     |        | Yes     | Yes | Yes   | Yes     | Yes |       |
+| SMFL    | C          | Yes |     |        | Yes     | Yes | Yes   |         |     |       |
+| OpenFL  | Haxe       | Yes | Yes |        | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
+| PixiJS  | Javascript |     | Yes |        |         |     |       |         |     | Yes   |
 
 ### Raylib
 
