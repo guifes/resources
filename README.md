@@ -1,5 +1,9 @@
 # Programming and Game Development Resources
 
+## Subpages
+
+- [Problems with Object Oriented Programming](./Problems_With_Object_Oriented_Programming.md)
+
 ## Youtube Channels
 
 | Name                             | URL                                              | Languages     | Type                            | Engine / Framework |
