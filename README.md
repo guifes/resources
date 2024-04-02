@@ -31,15 +31,15 @@
 
 ### List
 
-| Name    | Language   | 3D  | OO  | In Dev | Windows | OSX | Linux | Android | iOS | HTML5 |
-| ------- | ---------- | --- | --- | ------ |-------- | --- | ----- | ------- | --- | ----- |
-| Raylib  | C          | Yes |     |        | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
-| Rayfork | C          | Yes |     | Yes    | Yes     | Yes | Yes   | Yes     | Yes |       |
-| Allegro | C          |     |     |        | Yes     | Yes | Yes   | Yes     | Yes |       |
-| SDL     | C          |     |     |        | Yes     | Yes | Yes   | Yes     | Yes |       |
-| SMFL    | C          | Yes |     |        | Yes     | Yes | Yes   |         |     |       |
-| OpenFL  | Haxe       | Yes | Yes |        | Yes     | Yes | Yes   | Yes     | Yes | Yes   |
-| PixiJS  | Javascript |     | Yes |        |         |     |       |         |     | Yes   |
+| Name    | Language   | 3D  | OO  | In Dev | Windows | OSX | Linux | Android | iOS | HTML5 | OpenGL | Metal |
+| ------- | ---------- | --- | --- | ------ |-------- | --- | ----- | ------- | --- | ----- | ------ | ----- |
+| Raylib  | C          | Yes |     |        | Yes     | Yes | Yes   | Yes     | Yes | Yes   | Yes    |       |
+| Rayfork | C          | Yes |     | Yes    | Yes     | Yes | Yes   | Yes     | Yes |       |        |       |
+| Allegro | C          |     |     |        | Yes     | Yes | Yes   | Yes     | Yes |       |        |       |
+| SDL     | C          |     |     |        | Yes     | Yes | Yes   | Yes     | Yes |       |        |       |
+| SMFL    | C          | Yes |     |        | Yes     | Yes | Yes   |         |     |       |        |       |
+| OpenFL  | Haxe       | Yes | Yes |        | Yes     | Yes | Yes   | Yes     | Yes | Yes   |        |       |
+| PixiJS  | Javascript |     | Yes |        |         |     |       |         |     | Yes   |        |       |
 
 ### Raylib
 
@@ -107,6 +107,14 @@
 ### Jai
 
 - [Github](https://github.com/BSVino/JaiPrimer/blob/master/JaiPrimer.md)
+
+## Homebrew Dev Kits
+
+### List
+
+| Name    | Language   | Console | Community                              |
+| ------- | ---------- | ------- | -------------------------------------- |
+| SGDK    | C          | Genesis | [Discord](https://discord.gg/pMnfwQjd) |
 
 ## Game Art Tools
 
